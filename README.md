@@ -22,6 +22,6 @@ Hér á vefsíðunni mælum við með fjölbreyttum fönum heilsulæsis, sem get
 
 ## Hafðu Samband
 
-Ef þú hefur einhverjar spurningar eða þarft frekari upplýsingar um heilsulæsi, þá er þú hjartanlega velkomin til að hafa samband við okkur. Við stöndum til þín ráðgjafa og veitum þér stuðning á þínu ferli í átt að heilsusamlegu og ánægðu lífi.
+Ef þú hefur einhverjar spurningar eða þarft frekari upplýsingar um heilsulæsi, þá ertu velkomin að hafa samband við okkur. Við getum rætt við ykkur og komið með námskeið á þinn vinnustað.
 
 Hafðu það gott og njóttu vefsíðu okkar um heilsulæsi í fögru málfræði!
