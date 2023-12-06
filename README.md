@@ -1,4 +1,4 @@
-# Heilsulæsi í Fögru Málfræði
+# Heilsulæsi
 
 ## Velkomin á Vefsíðu Heilsulæsis
 
