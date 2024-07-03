@@ -1,14 +1,27 @@
 # Heilsulæsi
+OPNA SÍÐUNA
+forsíða: velkomin á heimasíðu 
+hver stendur að hóp
+hér munu birtast fréttir og fræðsluefni um heilsulæsi 
+
+SETJA HLEKK Á TÍMARITIÐ ..... 
+KASSA/LIT EF KOMA NÝJAR GREINAR 
+TEAM uppl um okkur hjfr
 
 ## Velkomin á vefsíðu Heilsulæsis
 
+Þetta er heimasíða samstarfshóps um heilsulæsi. Við erum mikinn áhuga á heilsulæsi í tengslum við sjúklingafræðslu og ....... 
+sjö hjúkrunarfræðingar sem vinnum við rannsóknir og fræðslu á heilsulæsi. 
+Hér mun í framtíðinni birtast nýtt efni um heilsulæsi
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Um Heilsulæsi
+## Um Heilsulæsi UM OKKUR 
 
 Ipsum dolor sit amet consectetur adipiscing. Habitasse platea dictumst vestibulum rhoncus est. Suspendisse sed nisi lacus sed viverra tellus. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada nunc. Pharetra vel turpis nunc eget lorem dolor sed viverra. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere ac. Morbi tincidunt augue interdum velit euismod in pellentesque. Facilisis sed odio morbi quis commodo odio aenean sed. Quis lectus nulla at volutpat diam ut venenatis. Facilisi nullam vehicula ipsum a arcu. Senectus et netus et malesuada fames ac turpis egestas. Purus faucibus ornare suspendisse sed nisi lacus sed viverra. Tempor orci eu lobortis elementum nibh tellus molestie.
 
-## Greining á Heilsustöðu
+## Greining á Heilsustöðu STAÐA HEILSULÆSIS Á ÍSLANDI 
 
 Tellus elementum sagittis vitae et leo. Sit amet mauris commodo quis imperdiet massa. Quis lectus nulla at volutpat diam ut venenatis tellus in. Dolor magna eget est lorem ipsum dolor. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Eu scelerisque felis imperdiet proin. Ullamcorper malesuada proin libero nunc consequat interdum varius sit amet. Ipsum dolor sit amet consectetur adipiscing elit ut. Arcu cursus vitae congue mauris rhoncus aenean vel elit. Euismod in pellentesque massa placerat duis. Tincidunt id aliquet risus feugiat in ante metus.
 
