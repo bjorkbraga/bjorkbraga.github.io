@@ -17,7 +17,7 @@ Hjúkrunarfræðingur á Heilsugæslu höfuðborgarsvæðisins og stundakennari 
 Sérfræðingur í hjúkrun á Landspítala og stundakennari við Háskóla Íslands
 
 **JÓNÍNA SIGURGEIRSDÓTTIR, PhD**\
-Sérfræðingur í hjúkrun á Reykjalundi
+Sérfræðingur í hjúkrun á Reykjalundi og stundakennari við Háskóla Íslands og Háskólann á Akureyri
 
 **KATRÍN BLÖNDAL, MSc**\
 Sérfræðingur í hjúkrun á Landspítala og aðjúnkt við Háskóla  Íslands
