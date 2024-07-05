@@ -31,9 +31,14 @@ Sérfræðingur í hjúkrun á Landspítala og aðjúnkt við Háskóla  Ísland
 **ÞORGERÐUR RAGNARSDÓTTIR, MA**\
 Hjúkrunarfræðingur á Landspítala
 
-## ÚTGEFIÐ EFNI
+## Útgefið efni
 [Október er mánuður heilsulæsis](https://old.hjukrun.is/library/Timarit---Skrar/Timarit/Timarit-2021/3-tbl-2021/ManudurHeilsulaesis.pdf)
 
 [Heilsulæsi á Íslandi - Hvar erum við stödd?](https://admin.rais.is/ws/portalfiles/portal/62104259/Heilsul_si.pdf)
 
 [Endursagnaraðferðin í sjúklingafræðslu: Gagnreynd leið til að kanna skilning og bæta heilsulæsi](https://hjukrun.cdn.prismic.io/hjukrun/ZofFIR5LeNNTw0Lk_Endursagnaradferdinisjuklingafraedslu.pdf)
+
+## Framtíðin
+Við munum uppfæra vefsíðuna reglulega og bæta við nýju efni. 
+
+Hafir þú áhuga á námskeiði um heilsulæsi fyrir þinn vinnustað er þér velkomið að hafa samband við einhverja okkar. 
