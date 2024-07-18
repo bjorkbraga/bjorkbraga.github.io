@@ -13,11 +13,11 @@ Sérfræðingur í hjúkrun á Landspítala og dósent við Háskóla Íslands
 **BJÖRK BRAGADÓTTIR, MA**\
 Hjúkrunarfræðingur á Heilsugæslu höfuðborgarsvæðisins og stundakennari við Háskóla Íslands
 
-**JÓHANNA Ó. EIRÍKSDÓTTIR, MSc**\
+**JÓHANNA ÓSK EIRÍKSDÓTTIR, MSc**\
 Sérfræðingur í hjúkrun á Landspítala og stundakennari við Háskóla Íslands
 
 **JÓNÍNA SIGURGEIRSDÓTTIR, PhD**\
-Sérfræðingur í hjúkrun á Reykjalundi og stundakennari við Háskóla Íslands og Háskólann á Akureyri
+Sérfræðingur í endurhæfingarhjúkrun á Reykjalundi og stundakennari við Háskóla Íslands og Háskólann á Akureyri
 
 **KATRÍN BLÖNDAL, MSc**\
 Sérfræðingur í hjúkrun á Landspítala og aðjúnkt við Háskóla  Íslands
