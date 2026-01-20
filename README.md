@@ -11,7 +11,7 @@ Meðlimir þessa samstarfshóps eru átta hjúkrunarfræðingar sem starfa við 
 Sérfræðingur í hjúkrun á Landspítala og dósent við Háskóla Íslands
 
 **BJÖRK BRAGADÓTTIR, MA**\
-Hjúkrunarfræðingur á Heilsugæslu höfuðborgarsvæðisins og stundakennari við Háskóla Íslands
+Hjúkrunarfræðingur og aðjúnkt við Háskóla Íslands
 
 **JÓHANNA ÓSK EIRÍKSDÓTTIR, MSc**\
 Sérfræðingur í hjúkrun á Landspítala og stundakennari við Háskóla Íslands
